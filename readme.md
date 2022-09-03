@@ -19,11 +19,3 @@ And I'm simulataneously a front-end developer, graphic desinger,UI/UX designer a
 <img src="https://raw.githubusercontent.com/mahtamun-hoque-fahim/server/48cb0cab391c310afca7186acfdf3cef90b71b2b/for-readme/readme%20badge%2012.svg" alt=" Github  " style="display:block;" height="70rem">
 </div>
 <br>
-<u><h3>Causeless , but ... </h3></u> 
-<div>
-<ul style="list-style-type:none;">
-<li>Coffe?</li>
-<li><input type="radio"checked > Ya</li>
-</ul>
-
-</div>
