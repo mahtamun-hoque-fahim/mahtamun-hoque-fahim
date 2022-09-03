@@ -28,15 +28,24 @@ And I'm simulataneously a front-end developer, graphic desinger,UI/UX designer a
 ![Windows-xp](https://img.shields.io/badge/Windows_XP-001D33?style=for-the-badge&logo=windows-xp&logoColor=2FA0F3)
 ![Android](https://img.shields.io/badge/Android-001D33?style=for-the-badge&logo=android&logoColor=2FA0F3)
 
+<<<<<<< HEAD
+#### Had fun with:
+![Netlify](https://img.shields.io/badge/Netlify-001D33?style=for-the-badge&logo=netlify&logoColor=cyan)
+![Vercel](https://img.shields.io/badge/Vercel-001D33?style=for-the-badge&logo=vercel&logoColor=cyan)
+![Glitch](https://img.shields.io/badge/Glitch-001D33?style=for-the-badge&logo=glitch&logoColor=cyan)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-001D33?style=for-the-badge&logo=Cloudflare&logoColor=cyan)
+[![Codepen link](https://img.shields.io/badge/Codepen-001D33?style=for-the-badge&logo=codepen&logoColor=cyan)](https://codepen.io/mahtamunhoquefahim)
+=======
 ### Had fun with:
 ![Netlify](https://img.shields.io/badge/Netlify-001D33?style=for-the-badge&logo=netlify&logoColor=2FA0F3)
 ![Vercel](https://img.shields.io/badge/Vercel-001D33?style=for-the-badge&logo=vercel&logoColor=2FA0F3)
 ![Glitch](https://img.shields.io/badge/Glitch-001D33?style=for-the-badge&logo=glitch&logoColor=2FA0F3)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-001D33?style=for-the-badge&logo=Cloudflare&logoColor=2FA0F3)
 [![Codepen link](https://img.shields.io/badge/Codepen-001D33?style=for-the-badge&logo=codepen&logoColor=2FA0F3)](https://codepen.io/mahtamunhoquefahim)
+>>>>>>> 02d696ae06d90a29c1e45274e2bc4ba00570093a
 
 
-### Wanna talk? knock knock !
+#### Wanna talk? knock knock !
 
 [![Facebook](https://img.shields.io/badge/Facebook-%23001D33.svg?style=for-the-badge&logo=Facebook&logoColor=2FA0F3)](https://facebook.com/fahimspacealt)
 [![Instagram](https://img.shields.io/badge/Instagram-%23001D33.svg?style=for-the-badge&logo=Instagram&logoColor=2FA0F3)](https://instagram.com/mahtamunhoquefahim)
