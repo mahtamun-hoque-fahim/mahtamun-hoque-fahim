@@ -23,7 +23,7 @@ And I'm simulataneously a front-end developer, graphic desinger,UI/UX designer a
 <div>
 <ul style="list-style-type:none;">
 <li>Coffe?</li>
-<li><input type="checkbox" checked > Ya</li>
+<li><input type="radio"checked > Ya</li>
 </ul>
 
 </div>
