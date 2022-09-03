@@ -19,8 +19,23 @@ And I'm simulataneously a front-end developer, graphic desinger,UI/UX designer a
 <img src="https://raw.githubusercontent.com/mahtamun-hoque-fahim/server/48cb0cab391c310afca7186acfdf3cef90b71b2b/for-readme/readme%20badge%2012.svg" alt=" Github  " style="display:block;" height="70rem">
 </div>
 <br>
-<div>
-<h3>Wanna talk? knock knock !</h3>
+
+### Had some momment with:
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows-xp](https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### Had fun with:
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Glitch](https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+
+
+### Wanna talk? knock knock !
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/fahimspacealt)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mahtamunhoquefahim)
@@ -30,7 +45,8 @@ And I'm simulataneously a front-end developer, graphic desinger,UI/UX designer a
 [![Polywork](https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white)](https://poly.work/fahim)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mahtamunF)
 
-</div>
+
 
 ### In a hurry? Here:
 [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/mahtamunhoque.fahim)
+
