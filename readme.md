@@ -3,7 +3,7 @@ Hello there! <br>
 And I'm simulataneously a front-end developer, graphic desinger,UI/UX designer and a martial artist
 ![Mahtamun Hoque Fahim standing alone in front of his school](https://raw.githubusercontent.com/mahtamun-hoque-fahim/server/main/for-readme/1629271120685(1).jpg) <br>
 
-<h3 style="border-bottom:1px solid #eee;width:max-content">Things I use often:</h3><br>
+<u><h3 style="border-bottom:1px solid #eee;width:max-content">Things I use often:</h3></u><br>
 <img src="https://raw.githubusercontent.com/mahtamun-hoque-fahim/server/48cb0cab391c310afca7186acfdf3cef90b71b2b/for-readme/readme%20badge%201.svg" height="70rem">
 <img src="https://raw.githubusercontent.com/mahtamun-hoque-fahim/server/48cb0cab391c310afca7186acfdf3cef90b71b2b/for-readme/readme%20badge%202.svg" height="70rem">
 <img src="https://raw.githubusercontent.com/mahtamun-hoque-fahim/server/48cb0cab391c310afca7186acfdf3cef90b71b2b/for-readme/readme%20badge%203.svg" height="70rem">
@@ -15,12 +15,8 @@ And I'm simulataneously a front-end developer, graphic desinger,UI/UX designer a
 <img src="https://raw.githubusercontent.com/mahtamun-hoque-fahim/server/48cb0cab391c310afca7186acfdf3cef90b71b2b/for-readme/readme%20badge%209.svg" height="70rem">
 
 <br>
-<h3 style="border-bottom:1px solid #eee;width:max-content">Causeless , but ... </h3> <br>
-- Do you love coffee? 
-- [x] yep! <br>
-- Can you build website?
-- [x] hell ya !<br>
-- Which style are you following in kungfu?
-- [x] Wing Chun<br>
-- Linux lover?
-- [x] Yup! That's me dude !<br>
+<u><h3 style="border-bottom:1px solid #eee;width:max-content">Causeless , but ... </h3></u> <br>
+- Do you love coffee?  [x] yep! <br>
+- Can you build website? [x] hell ya !<br>
+- Which style are you following in kungfu? [x] Wing Chun<br>
+- Linux lover? [x] Yup! That's me dude !<br>
