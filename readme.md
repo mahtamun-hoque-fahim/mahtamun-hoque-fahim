@@ -42,7 +42,6 @@ And I'm simulataneously a front-end developer, graphic desinger,UI/UX designer a
 [![Instagram](https://img.shields.io/badge/Instagram-%23001D33.svg?style=for-the-badge&logo=Instagram&logoColor=cyan)](https://instagram.com/mahtamunhoquefahim)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%23001D33.svg?style=for-the-badge&logo=linkedin&logoColor=cyan)](linkedin.com/in/mahtamun-hoque-fahim)
 [![Telegram](https://img.shields.io/badge/Telegram-001D33?style=for-the-badge&logo=telegram&logoColor=cyan)](https://t.me/mahtamuhoquefahim)
-[![Polywork](https://img.shields.io/badge/polywork-001D33?style=for-the-badge&logo=polywork&logoColor=cyan)](https://poly.work/fahim)
 [![Twitter](https://img.shields.io/badge/Twitter-001D33?style=for-the-badge&logo=twitter&logoColor=cyan)](https://twitter.com/mahtamunF)
 
 
