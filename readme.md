@@ -21,32 +21,32 @@ And I'm simulataneously a front-end developer, graphic desinger,UI/UX designer a
 <br>
 
 ### Had some momment with:
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Windows-xp](https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-001D33?style=for-the-badge&logo=linux&logoColor=cyan)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-001D33?style=for-the-badge&logo=ubuntu&logoColor=cyan)
+![Debian](https://img.shields.io/badge/Debian-001D33?style=for-the-badge&logo=debian&logoColor=cyan)
+![Windows](https://img.shields.io/badge/Windows-001D33?style=for-the-badge&logo=windows&logoColor=cyan)
+![Windows-xp](https://img.shields.io/badge/Windows_XP-001D33?style=for-the-badge&logo=windows-xp&logoColor=cyan)
+![Android](https://img.shields.io/badge/Android-001D33?style=for-the-badge&logo=android&logoColor=cyan)
 
 ### Had fun with:
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Glitch](https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-001D33?style=for-the-badge&logo=netlify&logoColor=cyan)
+![Vercel](https://img.shields.io/badge/Vercel-001D33?style=for-the-badge&logo=vercel&logoColor=cyan)
+![Glitch](https://img.shields.io/badge/Glitch-001D33?style=for-the-badge&logo=glitch&logoColor=cyan)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-001D33?style=for-the-badge&logo=Cloudflare&logoColor=cyan)
+[![Codepen link](https://img.shields.io/badge/Codepen-001D33?style=for-the-badge&logo=codepen&logoColor=cyan)](https://codepen.io/mahtamunhoquefahim)
 
 
 ### Wanna talk? knock knock !
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/fahimspacealt)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mahtamunhoquefahim)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/mahtamun-hoque-fahim)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mahtamuhoquefahim)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mahtamunhoquefahim)
-[![Polywork](https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white)](https://poly.work/fahim)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mahtamunF)
+[![Facebook](https://img.shields.io/badge/Facebook-%23001D33.svg?style=for-the-badge&logo=Facebook&logoColor=cyan)](https://facebook.com/fahimspacealt)
+[![Instagram](https://img.shields.io/badge/Instagram-%23001D33.svg?style=for-the-badge&logo=Instagram&logoColor=cyan)](https://instagram.com/mahtamunhoquefahim)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%23001D33.svg?style=for-the-badge&logo=linkedin&logoColor=cyan)](linkedin.com/in/mahtamun-hoque-fahim)
+[![Telegram](https://img.shields.io/badge/Telegram-001D33?style=for-the-badge&logo=telegram&logoColor=cyan)](https://t.me/mahtamuhoquefahim)
+[![Polywork](https://img.shields.io/badge/polywork-001D33?style=for-the-badge&logo=polywork&logoColor=cyan)](https://poly.work/fahim)
+[![Twitter](https://img.shields.io/badge/Twitter-001D33?style=for-the-badge&logo=twitter&logoColor=cyan)](https://twitter.com/mahtamunF)
 
 
 
 ### In a hurry? Here:
-[![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/mahtamunhoque.fahim)
+[![Messenger](https://img.shields.io/badge/Messenger-cyan?style=for-the-badge&logo=messenger&logoColor=black)](https://m.me/mahtamunhoque.fahim)
 
