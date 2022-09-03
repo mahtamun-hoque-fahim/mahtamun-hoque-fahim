@@ -1,14 +1,26 @@
 Hello there! <br>
 **Fahim is here** <br>
 And I'm simulataneously a front-end developer, graphic desinger,UI/UX designer and a martial artist
-![Mahtamun Hoque Fahim standing alone in front of his school](https://raw.githubusercontent.com/mahtamun-hoque-fahim/server/main/my%20pic%20server/1629271120685(1).jpg) <br>
+![Mahtamun Hoque Fahim standing alone in front of his school](https://raw.githubusercontent.com/mahtamun-hoque-fahim/server/main/for-readme/1629271120685(1).jpg) <br>
 
+<h3 style="background-color:#111E31;border-radius:5px;padding:1rem;border-bottom:1px solid #eee;width:max-content">Things I use often:</h3><br>
+<img src="https://raw.githubusercontent.com/mahtamun-hoque-fahim/server/48cb0cab391c310afca7186acfdf3cef90b71b2b/for-readme/readme%20badge%201.svg" height="70rem">
+<img src="https://raw.githubusercontent.com/mahtamun-hoque-fahim/server/48cb0cab391c310afca7186acfdf3cef90b71b2b/for-readme/readme%20badge%202.svg" height="70rem">
+<img src="https://raw.githubusercontent.com/mahtamun-hoque-fahim/server/48cb0cab391c310afca7186acfdf3cef90b71b2b/for-readme/readme%20badge%203.svg" height="70rem">
+<img src="https://raw.githubusercontent.com/mahtamun-hoque-fahim/server/48cb0cab391c310afca7186acfdf3cef90b71b2b/for-readme/readme%20badge%204.svg" height="70rem">
+<img src="https://raw.githubusercontent.com/mahtamun-hoque-fahim/server/48cb0cab391c310afca7186acfdf3cef90b71b2b/for-readme/readme%20badge%205.svg" height="70rem">
+<img src="https://raw.githubusercontent.com/mahtamun-hoque-fahim/server/48cb0cab391c310afca7186acfdf3cef90b71b2b/for-readme/readme%20badge%206.svg" height="70rem">
+<img src="https://raw.githubusercontent.com/mahtamun-hoque-fahim/server/48cb0cab391c310afca7186acfdf3cef90b71b2b/for-readme/readme%20badge%207.svg" height="70rem">
+<img src="https://raw.githubusercontent.com/mahtamun-hoque-fahim/server/48cb0cab391c310afca7186acfdf3cef90b71b2b/for-readme/readme%20badge%208.svg" height="70rem">
+<img src="https://raw.githubusercontent.com/mahtamun-hoque-fahim/server/48cb0cab391c310afca7186acfdf3cef90b71b2b/for-readme/readme%20badge%209.svg" height="70rem">
 
-- Do you love coffee? <br>
+<br>
+<h3 style="background-color:#111E31;border-radius:5px;padding:1rem;border-bottom:1px solid #eee;width:max-content">Causeless , but ... </h3> <br>
+- Do you love coffee? 
 - [x] yep! <br>
-- Can you build website?<br>
+- Can you build website?
 - [x] hell ya !<br>
-- Which style are you following in kungfu?<br>
+- Which style are you following in kungfu?
 - [x] Wing Chun<br>
-- Linux lover?<br>
+- Linux lover?
 - [x] Yup! That's me dude !<br>
