@@ -18,10 +18,10 @@ And I'm simulataneously a front-end developer, graphic desinger,UI/UX designer a
 <br>
 <u><h3>Causeless , but ... </h3></u> <br>
 - Do you love coffee?  
--[x] yep! <br>
+-[x] yep! 
 - Can you build website? 
--[x] hell ya !<br>
+-[x] hell ya !
 - Which style are you following in kungfu? 
--[x] Wing Chun<br>
+-[x] Wing Chun
 - Linux lover? 
--[x] Yup! That's me dude !<br>
+-[x] Yup! That's me dude !
