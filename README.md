@@ -9,7 +9,7 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
 ```
 
-### Graphic Designer · Full-Stack Developer · UI/UX Designer
+### Full-Stack Developer · Designer
 
 *Building at the intersection of aesthetics and engineering — from Bangladesh*
 
@@ -23,9 +23,9 @@
 
 ## About
 
-I operate under the brand **MAHTAMUN** — designing brands and building the digital products they live in. I care deeply about the craft on both sides: the visual precision of design and the engineering discipline of full-stack development.
+I am **MAHTAMUN** — designing brands and building the digital products they live in. I care deeply about the craft on both sides: the visual precision of design and the engineering discipline of full-stack development.
 
-When I'm not pushing pixels or writing TypeScript, I'm probably thinking about mathematics or making something unnecessarily polished.
+When I'm not pushing pixels or writing TypeScript, I'm probably thinking about making something unnecessarily polished.
 
 ---
 
@@ -33,7 +33,7 @@ When I'm not pushing pixels or writing TypeScript, I'm probably thinking about m
 
 ```typescript
 const stack = {
-  framework:  "Next.js 14 (App Router)",
+  framework:  "Next.js 16",
   language:   "TypeScript",
   styling:    "Tailwind CSS",
   database:   "Neon (PostgreSQL) + Drizzle ORM",
@@ -52,7 +52,8 @@ const stack = {
 | **[Sentri](https://sentri-here.vercel.app)** | Zero-knowledge encrypted password manager | Next.js · Clerk · Neon · Drizzle |
 | **[Neura](https://github.com/mahtamun-hoque-fahim/neura)** | Multiplayer whiteboard with tab-scoped rooms & IndexedDB persistence | Next.js · BroadcastChannel API |
 | **[Claudia](https://github.com/mahtamun-hoque-fahim/claudia)** | Chrome extension — export Claude.ai conversations as formatted PDFs | Chrome Extension API |
-| **Design Portfolio** | Client-facing portfolio with Cloudinary image management & admin dashboard | Next.js · Cloudinary · Resend · Neon |
+| **[Memoriza](https://github.com/mahtamun-hoque-fahim/memoriza)** |Important date remembering platform| Next.js · Clerk · Neon · Drizzle|
+| **[Formify](https://github.com/mahtamun-hoque-fahim/formify)** | Create beautiful forms and share and store data| Next.js · Clerk · Neon · Drizzle|
 
 ---
 
