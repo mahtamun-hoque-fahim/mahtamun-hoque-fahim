@@ -65,18 +65,6 @@ I do brand identity, logo design, social media design, and UI/UX under **MAHTAMU
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Fahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahtamun-hoque-fahim&show_icons=true&theme=transparent&hide_border=true&title_color=00e676&icon_color=00e676&text_color=f0ede6&bg_color=0a0a0a)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahtamun-hoque-fahim&layout=compact&theme=transparent&hide_border=true&title_color=00e676&text_color=f0ede6&bg_color=0a0a0a)
-
-</div>
-
----
-
 <div align="center">
 
 *Available for freelance — design, development, or both.*
