@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 ```
 ███╗   ███╗ █████╗ ██╗  ██╗████████╗ █████╗ ███╗   ███╗██╗   ██╗███╗   ██╗
@@ -7,10 +7,10 @@
 ██║╚██╔╝██║██╔══██║██╔══██║   ██║   ██╔══██║██║╚██╔╝██║██║   ██║██║╚██╗██║
 ██║ ╚═╝ ██║██║  ██║██║  ██║   ██║   ██║  ██║██║ ╚═╝ ██║╚██████╔╝██║ ╚████║
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
-```
+``` 
 
 ### Full-Stack Developer · Designer
-
+-->
 *Building at the intersection of aesthetics and engineering — from Bangladesh*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mahtamundesigns.vercel.app-00e676?style=flat-square&labelColor=0a0a0a)](https://mahtamundesigns.vercel.app)
