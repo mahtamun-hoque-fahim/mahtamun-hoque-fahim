@@ -13,7 +13,6 @@
 -->
 *Building at the intersection of aesthetics and engineering — from Bangladesh*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mahtamundesigns.vercel.app-00e676?style=flat-square&labelColor=0a0a0a)](https://mahtamundesigns.vercel.app)
 [![Personal Site](https://img.shields.io/badge/Site-mahtamunhoquefahim.pages.dev-00e676?style=flat-square&labelColor=0a0a0a)](https://mahtamunhoquefahim.pages.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mahtamun--hoque--fahim-0a66c2?style=flat-square&labelColor=0a0a0a)](https://linkedin.com/in/mahtamun-hoque-fahim)
 
