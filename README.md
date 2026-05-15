@@ -50,7 +50,7 @@ const stack = {
 |---------|-------------|-------|
 | **[Sentri](https://sentri-here.vercel.app)** | Zero-knowledge encrypted password manager | Next.js · Clerk · Neon · Drizzle |
 | **[Neura](https://github.com/mahtamun-hoque-fahim/neura)** | Multiplayer whiteboard with tab-scoped rooms & IndexedDB persistence | Next.js · BroadcastChannel API |
-| **[Claudia](https://github.com/mahtamun-hoque-fahim/claudia)** | Chrome extension — export Claude.ai conversations as formatted PDFs | Chrome Extension API |
+| **[Fontina](https://github.com/mahtamun-hoque-fahim/fontina)** | Drop any font file → get web-ready WOFF2 instantly. Server-side conversion using fonttools (Python), beautiful drag-drop UI, batch conversion support, and instant download.
 | **[Memoriza](https://github.com/mahtamun-hoque-fahim/memoriza)** |Important date remembering platform| Next.js · Clerk · Neon · Drizzle|
 | **[Formify](https://github.com/mahtamun-hoque-fahim/formify)** | Create beautiful forms and share and store data| Next.js · Clerk · Neon · Drizzle|
 
