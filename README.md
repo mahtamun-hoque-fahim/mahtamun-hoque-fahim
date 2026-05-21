@@ -50,15 +50,15 @@ const stack = {
 |---------|-------------|-------|
 | **[Sentri](https://sentri-here.vercel.app)** | Zero-knowledge encrypted password manager | Next.js · Clerk · Neon · Drizzle |
 | **[Neura](https://github.com/mahtamun-hoque-fahim/neura)** | Multiplayer whiteboard with tab-scoped rooms & IndexedDB persistence | Next.js · BroadcastChannel API |
-| **[Fontina](https://github.com/mahtamun-hoque-fahim/fontina)** | Drop any font file → get web-ready WOFF2 instantly. Server-side conversion using fonttools (Python), beautiful drag-drop UI, batch conversion support, and instant download.
-| **[Memoriza](https://github.com/mahtamun-hoque-fahim/memoriza)** |Important date remembering platform| Next.js · Clerk · Neon · Drizzle|
+| **[Fontina](https://github.com/mahtamun-hoque-fahim/fontina)** | Drop any font file → get web-ready WOFF2 instantly. Server-side conversion | Next.js · Tailwind CSS· fonttools (Python)
+| **[LearnDE](https://github.com/mahtamun-hoque-fahim/learnDE)** |Learn Differential Equation interactivly for CS curricula| Next.js · BetterAuth · Neon·Drizzle|
 | **[Formify](https://github.com/mahtamun-hoque-fahim/formify)** | Create beautiful forms and share and store data| Next.js · Clerk · Neon · Drizzle|
 
 ---
 
 ## Design Work
 
-I do brand identity, logo design, social media design, and UI/UX under **MAHTAMUN**. My design portfolio is a conversion funnel — not a gallery.
+I do brand identity design, logo design, social media design, and UI/UX design for selective brands only.
 
 → **[mahtamundesigns.vercel.app](https://mahtamundesigns.vercel.app)**
 
