@@ -48,11 +48,11 @@ const stack = {
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[Sentri](https://sentri-here.vercel.app)** | Zero-knowledge encrypted password manager | Next.js · Clerk · Neon · Drizzle |
-| **[Neura](https://github.com/mahtamun-hoque-fahim/neura)** | Multiplayer whiteboard with tab-scoped rooms & IndexedDB persistence | Next.js · BroadcastChannel API |
+| **[ImageSmith](https://imagesmith.vercel.app)** |Free batch WebP converter — runs entirely in your browser. No uploads, no account, folder structure preserved. | Next.js · Neon · Drizzle · Upstash · Redis · libwebp WASM · JSZiP
+| **[Neura](https://ithub.com/mahtamun-hoque-fahim/neura)** | Multiplayer whiteboard with tab-scoped rooms & IndexedDB persistence | Next.js · BroadcastChannel API |
 | **[Fontina](https://github.com/mahtamun-hoque-fahim/fontina)** | Drop any font file → get web-ready WOFF2 instantly. Server-side conversion | Next.js · Tailwind CSS· fonttools (Python)
 | **[LearnDE](https://github.com/mahtamun-hoque-fahim/learnDE)** |Learn Differential Equation interactivly for CS curricula| Next.js · BetterAuth · Neon·Drizzle|
-| **[Formify](https://github.com/mahtamun-hoque-fahim/formify)** | Create beautiful forms and share and store data| Next.js · Clerk · Neon · Drizzle|
+| **[OneFormify](https://github.com/mahtamun-hoque-fahim/oneformify)** | Create beautiful forms and share and store data| Next.js · Clerk · Neon · Drizzle|
 
 ---
 
