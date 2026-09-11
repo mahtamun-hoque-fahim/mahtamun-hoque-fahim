@@ -13,8 +13,8 @@
 -->
 *Building at the intersection of aesthetics and engineering — from Bangladesh*
 
-[![Personal Site](https://img.shields.io/badge/Site-mahtamunhoquefahim.vercel.app-00e676?style=flat-square&labelColor=0a0a0a)](https://mahtamunhoquefahim.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahtamun--hoque--fahim-0a66c2?style=flat-square&labelColor=0a0a0a)](https://linkedin.com/in/mahtamun-hoque-fahim)
+[![Personal Site](https://img.shields.io/badge/Site-mahtamunhoquefahim.vercel.app-41faaa?style=flat-square&labelColor=222222)](https://mahtamunhoquefahim.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahtamun--hoque--fahim-41faaa?style=flat-square&labelColor=222222)](https://linkedin.com/in/mahtamun-hoque-fahim)
 
 </div>
 
@@ -60,7 +60,7 @@ const stack = {
 
 I do brand identity design, logo design, social media design, and UI/UX design for selective brands only.
 
-→ **[mahtamundesigns.vercel.app](https://mahtamundesigns.vercel.app)**
+[![Design Portfolio](https://img.shields.io/badge/Site-mahtamundesigns.vercel.app-222222?style=flat-square&labelColor=41faaa)](https://mahtamundesigns.vercel.app)
 
 ---
 
@@ -68,6 +68,6 @@ I do brand identity design, logo design, social media design, and UI/UX design f
 
 *Available for freelance — design, development, or both.*
 
-**[mahtamunhoquefahim.pages.dev](https://mahtamunhoquefahim.pages.dev)**
+[![Personal Site](https://img.shields.io/badge/Site-mahtamunhoquefahim.vercel.app-222222?style=flat-square&labelColor=41faaa)](https://mahtamunhoquefahim.vercel.app)
 
 </div>
