@@ -58,7 +58,7 @@ const stack = {
 
 ## Design Work
 
-I do brand identity design, logo design, social media design, and UI/UX design for selective brands only.
+I do creative brand identity establishment for unique brands only.
 
 [![Design Portfolio](https://img.shields.io/badge/Site-mahtamundesigns.vercel.app-222222?style=flat-square&labelColor=41faaa)](https://mahtamundesigns.vercel.app)
 
