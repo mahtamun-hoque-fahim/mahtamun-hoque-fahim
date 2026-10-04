@@ -22,7 +22,7 @@
 
 ## About
 
-I am **MAHTAMUN** — designing brands and building the digital products they live in. I care deeply about the craft on both sides: the visual precision of design and the engineering discipline of full-stack development.
+I am **MAHTAMUN** — designing brands, building and developing functional digital products they live in. I care deeply about the craft on both sides: the visual precision of design and the engineering discipline of full-stack development.
 
 When I'm not pushing pixels or writing TypeScript, I'm probably thinking about making something unnecessarily polished.
 
@@ -56,18 +56,12 @@ const stack = {
 
 ---
 
-## Design Work
-
-I do creative brand identity establishment for unique brands only.
-
-[![Design Portfolio](https://img.shields.io/badge/Site-mahtamundesigns.vercel.app-222222?style=flat-square&labelColor=41faaa)](https://mahtamundesigns.vercel.app)
-
----
-
 <div align="center">
 
-*Available for freelance — design, development, or both.*
+  *Available for freelance — design, development, or both.*
+</br>
+
 
 [![Personal Site](https://img.shields.io/badge/Site-mahtamunhoquefahim.vercel.app-222222?style=flat-square&labelColor=41faaa)](https://mahtamunhoquefahim.vercel.app)
-
 </div>
+
