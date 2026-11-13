@@ -22,7 +22,9 @@
 
 ## About
 
-I am **MAHTAMUN** — Crossbread Designer and developer, building and developing functional platforms for digital products to live in. I care deeply about the craft on both sides: the visual precision of design and the engineering discipline of full-stack development.
+I am **MAHTAMUN** ; crossbread developer-designer, providing business centric solutions. 
+My specialty is to create functional platforms for digital products to live in. 
+Since I nurtured a business mindset, I care deeply about the craft on both sides: the visual precision of design and the engineering discipline to catch clients mind and bring attention to product as If they wanted it.
 
 When I'm not pushing pixels or writing TypeScript, I'm probably thinking about making something unnecessarily polished.
 
