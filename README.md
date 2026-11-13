@@ -22,7 +22,7 @@
 
 ## About
 
-I am **MAHTAMUN** — designing brands, building and developing functional digital products they live in. I care deeply about the craft on both sides: the visual precision of design and the engineering discipline of full-stack development.
+I am **MAHTAMUN** — Crossbread Designer and developer, building and developing functional platforms for digital products to live in. I care deeply about the craft on both sides: the visual precision of design and the engineering discipline of full-stack development.
 
 When I'm not pushing pixels or writing TypeScript, I'm probably thinking about making something unnecessarily polished.
 
